@@ -4,6 +4,8 @@ import random
 GRAPH_SIZE = 50
 WINDOW_SIZE = (500, 500)
 
+def makegrid()
+
 def segregateSquares(empty_perc, red_perc, blue_perc, segregation_perc, graph_size, window_size):
     return []
 
@@ -15,3 +17,4 @@ def checkGraphSegregation(graph_array) -> int:
 
 def adjustSegregation(graph, segregation_perc):
     return []
+
